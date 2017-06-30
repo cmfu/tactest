@@ -121,6 +121,7 @@
     <elementParameter field="TEXT" name="HINT" value="__UNIQUE_NAME__" contextMode="false"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row" contextMode="false"/>
     <elementParameter field="MEMO" name="COMMENT" value="" contextMode="false"/>
+    <elementParameter field="CLOSED_LIST" name="DB_VERSION" value="SYBSEIQ_12_15"/>
     <metadata connector="FLOW" name="tSybaseInput_1">
       <column comment="" defaultValue="" key="false" length="3" name="number" nullable="false" pattern="" sourceType="" type="id_Integer"/>
       <column comment="" defaultValue="" key="false" length="20" name="txt" nullable="false" pattern="" sourceType="" type="id_String"/>
