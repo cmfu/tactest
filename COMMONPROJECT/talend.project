@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_V1VesVuqEeeS_49VG-oxNw" label="commonproject" description="" language="java" technicalLabel="COMMONPROJECT" creationDate="2017-06-28T10:32:32.000+0800" author="_V1WFwFuqEeeS_49VG-oxNw" productVersion="Talend Data Fabric-6.4.1.20170622_1206" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/cmfu/tactest.git&quot;,&quot;login&quot;:&quot;cmfu@talend.com&quot;,&quot;passwd&quot;:&quot;mVJ+rnIEee16WHDDWHA4CQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3" bigData="false">
+  <TalendProperties:Project xmi:id="_V1VesVuqEeeS_49VG-oxNw" label="commonproject" description="" language="java" technicalLabel="COMMONPROJECT" creationDate="2017-06-28T10:32:32.000+0800" author="_V1WFwFuqEeeS_49VG-oxNw" productVersion="Talend Data Fabric-6.5.0.20170703_2203-SNAPSHOT" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/cmfu/tactest.git&quot;,&quot;login&quot;:&quot;cmfu@talend.com&quot;,&quot;passwd&quot;:&quot;mVJ+rnIEee16WHDDWHA4CQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
     <technicalStatus xmi:id="_WgHhEFuqEeeS_49VG-oxNw" label="development" code="DEV"/>
     <technicalStatus xmi:id="_WgHhEVuqEeeS_49VG-oxNw" label="testing" code="TEST"/>
     <technicalStatus xmi:id="_WgHhEluqEeeS_49VG-oxNw" label="production" code="PROD"/>
@@ -2909,5 +2909,7 @@
     <migrationTask xmi:id="_E2BG7F1rEeez4sfKm6gv8Q" id="org.talend.repository.model.migration.SetSparkDataframeAlphabeticalSortOrder" breaks="6.1.0" version="6.1.0" status="noimpact"/>
     <migrationTask xmi:id="_W12g81uqEeeS_49VG-oxNw" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
-  <TalendProperties:User xmi:id="_V1WFwFuqEeeS_49VG-oxNw" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_V1WFwFuqEeeS_49VG-oxNw" login="admin@company.com" firstName="admin1" lastName="admin" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_ECTYAWUYEeeAYetmmkfKrQ" login="cmfu@talend.com" firstName="fu" lastName="ming" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_ECTYAmUYEeeAYetmmkfKrQ" login="cmfu@talend.com" firstName="fu" lastName="ming" type="DI" additionnalData="{}"/>
 </xmi:XMI>
