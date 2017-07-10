@@ -182,6 +182,7 @@
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row" contextMode="false"/>
     <elementParameter field="CHECK" name="INFORMATION" value="false" contextMode="false"/>
     <elementParameter field="MEMO" name="COMMENT" value="" contextMode="false"/>
+    <elementParameter field="CHECK" name="CHANGE_HASH_AND_EQUALS_FOR_BIGDECIMAL" value="false"/>
     <metadata connector="FLOW" name="ErrorReject">
       <column comment="" key="false" name="errorMessage" nullable="true" pattern="" sourceType="" type="id_String"/>
       <column comment="" key="false" name="errorStackTrace" nullable="true" pattern="" sourceType="" type="id_String"/>

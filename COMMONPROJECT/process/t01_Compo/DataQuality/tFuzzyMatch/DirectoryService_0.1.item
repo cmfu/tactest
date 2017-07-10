@@ -190,6 +190,7 @@
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row" contextMode="false"/>
     <elementParameter field="CHECK" name="INFORMATION" value="false" contextMode="false"/>
     <elementParameter field="MEMO" name="COMMENT" value="" contextMode="false"/>
+    <elementParameter field="CHECK" name="CHANGE_HASH_AND_EQUALS_FOR_BIGDECIMAL" value="false"/>
     <metadata connector="FLOW" label="ToFuzzy" name="ToFuzzy">
       <column comment="" key="false" length="15" name="City" nullable="true" pattern="" sourceType="" type="id_String"/>
       <column key="false" length="255" name="NameOK" nullable="true" sourceType="" type="id_String"/>
@@ -287,6 +288,7 @@
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row" contextMode="false"/>
     <elementParameter field="CHECK" name="INFORMATION" value="false" contextMode="false"/>
     <elementParameter field="MEMO" name="COMMENT" value="" contextMode="false"/>
+    <elementParameter field="CHECK" name="CHANGE_HASH_AND_EQUALS_FOR_BIGDECIMAL" value="false"/>
     <metadata connector="FLOW" label="ToTLogRow" name="ToTLogRow">
       <column comment="" key="false" length="15" name="name" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String"/>
       <column comment="" key="false" length="15" name="firstname" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String"/>

@@ -214,6 +214,7 @@
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row" contextMode="false"/>
     <elementParameter field="CHECK" name="INFORMATION" value="false" contextMode="false"/>
     <elementParameter field="MEMO" name="COMMENT" value="" contextMode="false"/>
+    <elementParameter field="CHECK" name="CHANGE_HASH_AND_EQUALS_FOR_BIGDECIMAL" value="false"/>
     <metadata connector="FLOW" label="employee_scd" name="employee_scd">
       <column comment="" defaultValue="&quot;0&quot;" key="true" length="10" name="id" nullable="false" pattern="" precision="0" sourceType="INT" type="id_Integer"/>
       <column comment="" key="false" length="20" name="firstname" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String"/>
@@ -675,6 +676,7 @@
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row" contextMode="false"/>
     <elementParameter field="CHECK" name="INFORMATION" value="false" contextMode="false"/>
     <elementParameter field="MEMO" name="COMMENT" value="" contextMode="false"/>
+    <elementParameter field="CHECK" name="CHANGE_HASH_AND_EQUALS_FOR_BIGDECIMAL" value="false"/>
     <metadata connector="FLOW" label="employee_scd" name="copyOfemployee_scd">
       <column comment="" defaultValue="&quot;0&quot;" key="true" length="10" name="id" nullable="false" pattern="" precision="0" sourceType="INT" type="id_Integer"/>
       <column comment="" key="false" length="20" name="firstname" nullable="true" pattern="" precision="0" sourceType="VARCHAR" type="id_String"/>
