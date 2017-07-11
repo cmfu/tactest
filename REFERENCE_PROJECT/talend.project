@@ -82,53 +82,6 @@
         <elementParameter xmi:id="_A6A6_mXoEeeR5MBcl2rxqw" field="TECHNICAL" name="PROPERTY_TYPE_IMPLICIT_CONTEXT:REPOSITORY_PROPERTY_TYPE" value="" contextMode="false"/>
       </parameters>
     </implicitContextSettings>
-    <ItemsRelations xmi:id="_A6KE0GXoEeeR5MBcl2rxqw">
-      <baseItem xmi:id="_A6KE0WXoEeeR5MBcl2rxqw" id="_b9vjsFpzEeeC9OZRpxFhdA" version="0.1" type="job"/>
-      <relatedItems xmi:id="_A6KE0mXoEeeR5MBcl2rxqw" id="_Pw1bkFprEeeq7sZryElnbg" version="Latest" type="joblet"/>
-      <relatedItems xmi:id="_A6KE02XoEeeR5MBcl2rxqw" id="SQLike" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE1GXoEeeR5MBcl2rxqw" id="IOTools" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE1WXoEeeR5MBcl2rxqw" id="Numeric" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE1mXoEeeR5MBcl2rxqw" id="Template" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE12XoEeeR5MBcl2rxqw" id="DataOperation" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE2GXoEeeR5MBcl2rxqw" id="StringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE2WXoEeeR5MBcl2rxqw" id="TalendDate" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE2mXoEeeR5MBcl2rxqw" id="DateTool" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE22XoEeeR5MBcl2rxqw" id="SecTools" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE3GXoEeeR5MBcl2rxqw" id="NumberTool" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE3WXoEeeR5MBcl2rxqw" id="KeyVal" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE3mXoEeeR5MBcl2rxqw" id="TalendString" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE32XoEeeR5MBcl2rxqw" id="TalendDataGenerator" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE4GXoEeeR5MBcl2rxqw" id="DiageoRoutines" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE4WXoEeeR5MBcl2rxqw" id="MapTool" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE4mXoEeeR5MBcl2rxqw" id="Mathematical" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE42XoEeeR5MBcl2rxqw" id="Logger" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE5GXoEeeR5MBcl2rxqw" id="Relational" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE5WXoEeeR5MBcl2rxqw" id="Base64" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE5mXoEeeR5MBcl2rxqw" id="TemplateSyntaxException" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE52XoEeeR5MBcl2rxqw" id="MDM" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE6GXoEeeR5MBcl2rxqw" id="StringTool" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE6WXoEeeR5MBcl2rxqw" id="TemplateElementRequestWithExpandAccess" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE6mXoEeeR5MBcl2rxqw" id="DateToolException" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE62XoEeeR5MBcl2rxqw" id="TemplateElementRequest" version="Latest" type="routine"/>
-    </ItemsRelations>
-    <ItemsRelations xmi:id="_A6KE7GXoEeeR5MBcl2rxqw">
-      <baseItem xmi:id="_A6KE7WXoEeeR5MBcl2rxqw" id="_Pw1bkFprEeeq7sZryElnbg" version="0.1" type="joblet"/>
-      <relatedItems xmi:id="_A6KE7mXoEeeR5MBcl2rxqw" id="SQLike" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE72XoEeeR5MBcl2rxqw" id="Numeric" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE8GXoEeeR5MBcl2rxqw" id="TalendString" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE8WXoEeeR5MBcl2rxqw" id="DataOperation" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE8mXoEeeR5MBcl2rxqw" id="DqStringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE82XoEeeR5MBcl2rxqw" id="StringHandling" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE9GXoEeeR5MBcl2rxqw" id="TalendDataGenerator" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE9WXoEeeR5MBcl2rxqw" id="TalendDate" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE9mXoEeeR5MBcl2rxqw" id="DataQuality" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE92XoEeeR5MBcl2rxqw" id="DiageoRoutines" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE-GXoEeeR5MBcl2rxqw" id="Mathematical" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE-WXoEeeR5MBcl2rxqw" id="Relational" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE-mXoEeeR5MBcl2rxqw" id="DQTechnical" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE-2XoEeeR5MBcl2rxqw" id="MDM" version="Latest" type="routine"/>
-      <relatedItems xmi:id="_A6KE_GXoEeeR5MBcl2rxqw" id="MyRoutine" version="Latest" type="routine"/>
-    </ItemsRelations>
     <migrationTask xmi:id="_SmRWsGXnEeeZzafSVfmOsg" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_SmRWsWXnEeeZzafSVfmOsg" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_SmRWsmXnEeeZzafSVfmOsg" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
