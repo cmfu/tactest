@@ -515,4 +515,6 @@
     <migrationTask xmi:id="_voGcSWXpEeejrtLwm5Uv1w" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_RSDVwmXnEeeZzafSVfmOsg" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_RjhxAWg8EeeVW5ErRfGbXg" login="security@company.com" firstName="security" lastName="security" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_RjhxAmg8EeeVW5ErRfGbXg" login="dl_qa_esb_ipaas@talend.com" firstName="esb" lastName="qa" type="DI" additionnalData="{}"/>
 </xmi:XMI>
