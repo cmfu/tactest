@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<talendfile:ProcessType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.talend.org/mapper" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" defaultContext="Default">
+<talendfile:ProcessType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMapper="http://www.talend.org/mapper" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" defaultContext="Default">
   <context confirmationNeeded="false" name="Default"/>
   <parameters>
     <elementParameter field="DIRECTORY" name="COMP_DEFAULT_FILE_DIR" value="D:\TOS-All-r17341-V3.0.0M3\workspace" contextMode="false"/>
@@ -183,6 +183,7 @@
     <elementParameter field="TEXT" name="HINT" value="__UNIQUE_NAME__" contextMode="false"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row" contextMode="false"/>
     <elementParameter field="MEMO" name="COMMENT" value="" contextMode="false"/>
+    <elementParameter field="CHECK" name="CHANGE_HASH_AND_EQUALS_FOR_BIGDECIMAL" value="false"/>
     <metadata connector="FLOW" name="flag_eq_true">
       <column comment="" defaultValue="" key="false" length="15" name="filter" nullable="false" pattern="" sourceType="" type="id_String"/>
       <column comment="" key="false" length="3" name="number" nullable="false" pattern="" sourceType="" type="id_Integer"/>
@@ -190,7 +191,7 @@
       <column comment="" key="false" length="10" name="date" nullable="false" pattern="" sourceType="" type="id_String"/>
       <column comment="" key="false" length="5" name="flag" nullable="false" pattern="" sourceType="" type="id_Boolean"/>
     </metadata>
-    <nodeData xsi:type="MapperData">
+    <nodeData xsi:type="TalendMapper:MapperData">
       <uiProperties/>
       <varTables name="Var" minimized="true"/>
       <outputTables name="flag_eq_true">

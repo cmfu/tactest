@@ -5,7 +5,7 @@
     <elementParameter field="DIRECTORY" name="COMP_DEFAULT_FILE_DIR" value="/home/nrousseau/builds/TOS-All-r57577-V4.2.0RC1/workspace"/>
     <elementParameter field="DIRECTORY" name="PRODUCT_ROOT_DIR" value="/home/nrousseau/builds/TOS-All-r57577-V4.2.0RC1"/>
     <elementParameter field="DIRECTORY" name="COMP_DEFAULT_PROJECT_DIR" value="/home/nrousseau/builds/TOS-All-r57577-V4.2.0RC1/workspace/TALENDDEMOSJAVA"/>
-    <elementParameter field="TEXT" name="JOB_RUN_VM_ARGUMENTS" value=" -Xms256M -Xmx1024M"/>
+    <elementParameter field="TEXT" name="JOB_RUN_VM_ARGUMENTS" value="{&quot;JOB_RUN_VM_ARGUMENTS&quot;:[&quot;-Xms256M&quot;,&quot;-Xmx1024M&quot;]}"/>
     <elementParameter field="CHECK" name="JOB_RUN_VM_ARGUMENTS_OPTION" value="false"/>
     <elementParameter field="TEXT" name="AUTHOR" value="ocarbone@talend.com"/>
     <elementParameter field="TEXT" name="STATUS" value=""/>

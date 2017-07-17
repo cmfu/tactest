@@ -5,7 +5,7 @@
     <elementParameter field="DIRECTORY" name="COMP_DEFAULT_FILE_DIR" value="T:/Talend-All-r67267-V4.2.3/workspace"/>
     <elementParameter field="DIRECTORY" name="PRODUCT_ROOT_DIR" value="T:/Talend-All-r67267-V4.2.3"/>
     <elementParameter field="DIRECTORY" name="COMP_DEFAULT_PROJECT_DIR" value="T:/Talend-All-r67267-V4.2.3/workspace/test"/>
-    <elementParameter field="TEXT" name="JOB_RUN_VM_ARGUMENTS" value=" -Xms256M -Xmx1024M"/>
+    <elementParameter field="TEXT" name="JOB_RUN_VM_ARGUMENTS" value="{&quot;JOB_RUN_VM_ARGUMENTS&quot;:[&quot;-Xms256M&quot;,&quot;-Xmx1024M&quot;]}"/>
     <elementParameter field="CHECK" name="JOB_RUN_VM_ARGUMENTS_OPTION" value="false"/>
     <elementParameter field="TEXT" name="AUTHOR" value="a@a.a"/>
     <elementParameter field="TEXT" name="STATUS" value=""/>
