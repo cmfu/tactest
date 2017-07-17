@@ -512,4 +512,5 @@
   </TalendProperties:ProjectReference>
   <TalendProperties:User xmi:id="_xiDf8Wg4EeevqsxuHrZ2Lg" login="security@company.com" firstName="security" lastName="security" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_xiDf8mg4EeevqsxuHrZ2Lg" login="dl_qa_esb_ipaas@talend.com" firstName="esb" lastName="qa" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_XTA0oWqzEeeMvaE1d-AsjA" login="cmfu@talend.com" firstName="fu" lastName="ming" type="DI" additionnalData="{}"/>
 </xmi:XMI>
