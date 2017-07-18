@@ -86,7 +86,6 @@
       <baseItem xmi:id="_X7DbIWg5EeeoZeiAtgxhKQ" id="_6gPf4Fp3EeeP8fzL9q9SjQ" version="0.1" type="job"/>
       <relatedItems xmi:id="_X7DbImg5EeeoZeiAtgxhKQ" id="_b9vjsFpzEeeC9OZRpxFhdA" version="Latest" type="job"/>
       <relatedItems xmi:id="_X7DbI2g5EeeoZeiAtgxhKQ" id="_Pw1bkFprEeeq7sZryElnbg" version="Latest" type="joblet"/>
-      <relatedItems xmi:id="_X7DbJGg5EeeoZeiAtgxhKQ" id="_CDs4oBg9EeeeRe8e-YJbXw" version="Latest" type="property"/>
       <relatedItems xmi:id="_X7DbJWg5EeeoZeiAtgxhKQ" id="SQLike" version="Latest" type="routine"/>
       <relatedItems xmi:id="_X7DbJmg5EeeoZeiAtgxhKQ" id="Numeric" version="Latest" type="routine"/>
       <relatedItems xmi:id="_X7DbJ2g5EeeoZeiAtgxhKQ" id="TalendString" version="Latest" type="routine"/>
@@ -102,6 +101,8 @@
       <relatedItems xmi:id="_X7DbMWg5EeeoZeiAtgxhKQ" id="DQTechnical" version="Latest" type="routine"/>
       <relatedItems xmi:id="_X7DbMmg5EeeoZeiAtgxhKQ" id="MyRoutine" version="Latest" type="routine"/>
       <relatedItems xmi:id="_X7DbM2g5EeeoZeiAtgxhKQ" id="_PGbsYNeTEeSUwYCE4ZjR7g - metadata" version="Latest" type="schema"/>
+      <relatedItems xmi:id="_EKuS4GtoEeeXEbixxvpfdA" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_EKuS4WtoEeeXEbixxvpfdA" id="TalendStringUtil" version="Latest" type="routine"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_X7DbNGg5EeeoZeiAtgxhKQ">
       <baseItem xmi:id="_X7DbNWg5EeeoZeiAtgxhKQ" id="_Pw1bkFprEeeq7sZryElnbg" version="0.1" type="joblet"/>
