@@ -406,4 +406,7 @@
     <migrationTask xmi:id="_VB9vR4PNEee8t8OpSgIiOA" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_S8LuUoPNEee8t8OpSgIiOA" login="devadmuser@ysyang.com" firstName="dev" lastName="admuser" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_FA_sAYYhEeed_pCy6z-DPA" login="devadmuser" firstName="dev" lastName="admuser" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_FA_sAoYhEeed_pCy6z-DPA" login="security@company.com" firstName="security" lastName="security" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_FA_sA4YhEeed_pCy6z-DPA" login="devadmuser" firstName="dev" lastName="admuser" type="DI" additionnalData="{}"/>
 </xmi:XMI>
