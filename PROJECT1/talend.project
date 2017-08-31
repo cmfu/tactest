@@ -448,4 +448,6 @@
   <TalendProperties:User xmi:id="_FA_sAYYhEeed_pCy6z-DPA" login="devadmuser" firstName="dev" lastName="admuser" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_FA_sAoYhEeed_pCy6z-DPA" login="security@company.com" firstName="security" lastName="security" type="DI" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_FA_sA4YhEeed_pCy6z-DPA" login="devadmuser" firstName="dev" lastName="admuser" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_q9cVMI4QEeebELdLoLIcNg" login="devadmuser@company.com" firstName="dev" lastName="admuser" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_q9cVMY4QEeebELdLoLIcNg" login="devadmuser@company.com" firstName="dev" lastName="admuser" type="DI" additionnalData="{}"/>
 </xmi:XMI>
