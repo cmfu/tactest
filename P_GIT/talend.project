@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_xASN0ZbWEeeXEpw6e917Mw" label="p_git" description="" language="java" technicalLabel="P_GIT" creationDate="2017-09-11T17:39:04.000+0800" author="_xASN0pbWEeeXEpw6e917Mw" productVersion="Talend Data Fabric-6.3.2.20170902_1316" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/cmfu/tactest.git&quot;,&quot;login&quot;:&quot;cmfu&quot;,&quot;passwd&quot;:&quot;mVJ+rnIEee16WHDDWHA4CQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI"/>
+  <TalendProperties:User xmi:id="_xASN0pbWEeeXEpw6e917Mw" login="con4@company.com" firstName="con4" lastName="con4" type="MDM" additionnalData="{}"/>
+</xmi:XMI>
